@@ -1,1 +1,1 @@
-https://GITHUB-Vanek1212.github.io/Markdown/cv
+https://github.com/Vanek1212/WEB/blob/Markdown/cv.md
