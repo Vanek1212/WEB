@@ -1,1 +1,1 @@
-https://GITHUB-Vanek1212.github.io/Markdown/cv
+https://GITHUB-Vanek1212.github.io/Markdown/cv//rerer
